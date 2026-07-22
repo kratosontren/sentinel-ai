@@ -248,8 +248,8 @@ GET /topic-distribution
 ## 📸 Dashboard Preview
 
 ### Main Dashboard
+<img width="1917" height="930" alt="image" src="https://github.com/user-attachments/assets/bd099d5f-44a9-46bb-925c-321bce4171a5" />
 
-> Add screenshots here
 
 ```markdown
 ![Dashboard](docs/screenshots/dashboard.png)
